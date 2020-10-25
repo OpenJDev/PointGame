@@ -1,1 +1,1 @@
-# point-game
+# PointGame
